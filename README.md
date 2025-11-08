@@ -1,5 +1,3 @@
 #Video Play
-<video width="640" height="360" controls>
-  <source src="assets/files/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/2b542b4e-f92a-4c4c-be0f-63be4ddc5589
+
