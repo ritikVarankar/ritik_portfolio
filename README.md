@@ -37,7 +37,8 @@ It’s built with simplicity, performance, and responsiveness in mind — making
 ---
 
 ## 🎬 Project Demo
-*https://github.com/user-attachments/assets/2b542b4e-f92a-4c4c-be0f-63be4ddc5589*
+
+https://github.com/user-attachments/assets/2b542b4e-f92a-4c4c-be0f-63be4ddc5589
 
 ---
 
