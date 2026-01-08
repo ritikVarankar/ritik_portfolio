@@ -24,7 +24,8 @@
 }
 
 html{
-    font-size: 62.5%;
+    font-size: 70.5%; 
+    /* 62.5 */
 }
 
 body{
@@ -228,7 +229,7 @@ body{
     margin-bottom: 1.2rem;
 }
 .workeduc-box .workeduc-content1{
-    margin: 3rem 0rem;
+    margin: 2rem 0rem;
 }
 
 .workeduc-box .workeduc-content::before{
@@ -372,7 +373,7 @@ body{
 }
 
 .portfolio-box .info-box{
-    margin: 1rem  0 1.5rem;
+    margin: 1rem 0.1rem;
 }
 .portfolio-box .info-box p:nth-child(even){
     font-weight: 600;
